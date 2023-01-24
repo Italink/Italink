@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can find me on ：
+You can find me in the following communities:
 
 <img src="https://i.postimg.cc/gJQV86Ky/github.png" height="14" width="14" /> Github：https://github.com/Italink
 
