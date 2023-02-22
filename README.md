@@ -1,8 +1,10 @@
 <h1 align="center">Hi</h1>
 
-I'm a self-taught passionate game engine engineer from China, you can ask me about anything 💬 [here](https://github.com/Italink/Italink/issues/new)
+I'm a self-taught passionate game engine engineer from China
+
+you can ask me about anything 💬 [here](https://github.com/Italink/Italink/issues/new)
   
-**About me**
+<h3 align="center">About Me</h3>
 
 - <img src="https://i.postimg.cc/1tf08KD5/zhihu.png" height="12" width="12" /> 知乎：https://www.zhihu.com/people/italink
 
