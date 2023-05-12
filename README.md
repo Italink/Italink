@@ -1,7 +1,7 @@
 <h1 align="center">Hi</h1>
 
 <h4 align="center">
-  I'm a self-taught passionate game engine engineer from China
+  I'm a game engine engineer from China
 </h4>
 
 <h4 align="center">
