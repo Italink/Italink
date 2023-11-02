@@ -4,6 +4,7 @@
   I'm a game engine engineer from China
 </h4>
 
+
 <h4 align="center">
   you can ask me about anything 💬<a href="https://github.com/Italink/Italink/issues/new" target="_blank" title="issue">here</a>
 </h4>
@@ -23,6 +24,10 @@
  <a href="https://blog.csdn.net/qq_40946921" target="_blank" title="csdn">&nbsp;CSDN&nbsp;</a>
 </h5>
 
+
+<p align="center">
+  <img height="500" src="https://github.com/italink/italink/assets/10510431/3a9a0b5a-03d5-4fad-839b-f3fcc9246a14" />
+</p>
 
 ![](https://raw.githubusercontent.com/italink/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/italink/github-stats-transparent/output/generated/languages.svg)
