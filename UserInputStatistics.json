@@ -1,11 +1,30 @@
 {
     "keyUseCount": {
+        "Key_1": 2,
+        "Key_2": 2,
+        "Key_3": 2,
+        "Key_4": 1,
+        "Key_5": 1,
+        "Key_6": 1,
+        "Key_7": 1,
+        "Key_8": 1,
+        "Key_9": 1,
+        "Key_A": 2,
+        "Key_B": 1,
+        "Key_C": 2,
+        "Key_D": 1,
+        "Key_N": 1,
+        "Key_S": 1,
+        "Key_Space": 1,
+        "Key_V": 2,
+        "Key_Z": 1
     },
     "keyUsePerHourCount": {
+        "19:00:00 - 20:00:00": 24
     },
-    "keyUseTotalCount": 0,
-    "mouseMoveDistance": 12983.299776540729,
+    "keyUseTotalCount": 24,
+    "mouseMoveDistance": 21465.9545273696,
     "mouseUseCount": {
-        "LeftButton": 3
+        "LeftButton": 11
     }
 }
