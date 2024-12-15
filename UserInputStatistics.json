@@ -23,8 +23,9 @@
         "19:00:00 - 20:00:00": 24
     },
     "keyUseTotalCount": 24,
-    "mouseMoveDistance": 76232.06361577242,
+    "mouseMoveDistance": 119978.98853215836,
     "mouseUseCount": {
-        "LeftButton": 23
+        "LeftButton": 45,
+        "RightButton": 1
     }
 }
