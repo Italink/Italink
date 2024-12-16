@@ -1,6 +1,6 @@
 {
     "keyUseCount": {
-        "": 4,
+        "": 62,
         "Key_1": 2,
         "Key_2": 2,
         "Key_3": 2,
@@ -11,25 +11,33 @@
         "Key_8": 1,
         "Key_9": 1,
         "Key_A": 2,
-        "Key_B": 1,
+        "Key_B": 2,
+        "Key_BracketRight": 2,
         "Key_C": 2,
         "Key_D": 1,
+        "Key_G": 1,
+        "Key_J": 2,
+        "Key_K": 1,
+        "Key_L": 1,
         "Key_N": 1,
+        "Key_QuoteLeft": 5,
         "Key_S": 1,
-        "Key_Space": 1,
+        "Key_Space": 4,
         "Key_V": 2,
         "Key_Z": 1,
         "Key_guillemotright": 1,
-        "Key_onehalf": 1
+        "Key_onehalf": 1,
+        "Key_yen": 1
     },
     "keyUsePerHourCount": {
+        "00:00:00 - 01:00:00": 75,
         "19:00:00 - 20:00:00": 24,
         "23:00:00 - 24:00:00": 6
     },
-    "keyUseTotalCount": 30,
-    "mouseMoveDistance": 164727.3324171182,
+    "keyUseTotalCount": 105,
+    "mouseMoveDistance": 176557.9420501754,
     "mouseUseCount": {
-        "LeftButton": 75,
+        "LeftButton": 87,
         "RightButton": 3
     }
 }
