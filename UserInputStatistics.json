@@ -1,6 +1,6 @@
 {
     "keyUseCount": {
-        "": 1,
+        "": 2,
         "Key_1": 2,
         "Key_2": 2,
         "Key_3": 2,
@@ -22,12 +22,12 @@
     },
     "keyUsePerHourCount": {
         "19:00:00 - 20:00:00": 24,
-        "23:00:00 - 24:00:00": 1
+        "23:00:00 - 24:00:00": 2
     },
-    "keyUseTotalCount": 25,
-    "mouseMoveDistance": 155504.11603547665,
+    "keyUseTotalCount": 26,
+    "mouseMoveDistance": 158024.599420323,
     "mouseUseCount": {
-        "LeftButton": 73,
+        "LeftButton": 74,
         "RightButton": 3
     }
 }
