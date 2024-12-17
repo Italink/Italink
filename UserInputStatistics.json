@@ -20,10 +20,12 @@
         "Key_K": 1,
         "Key_L": 1,
         "Key_N": 1,
+        "Key_Q": 2,
         "Key_QuoteLeft": 5,
         "Key_S": 1,
         "Key_Space": 4,
         "Key_V": 2,
+        "Key_W": 1,
         "Key_Z": 1,
         "Key_guillemotright": 1,
         "Key_onehalf": 1,
@@ -33,12 +35,12 @@
         "00:00:00 - 01:00:00": 75,
         "19:00:00 - 20:00:00": 24,
         "22:00:00 - 23:00:00": 5,
-        "23:00:00 - 24:00:00": 10
+        "23:00:00 - 24:00:00": 13
     },
-    "keyUseTotalCount": 114,
-    "mouseMoveDistance": 202163.28107293628,
+    "keyUseTotalCount": 117,
+    "mouseMoveDistance": 205005.65052551977,
     "mouseUseCount": {
-        "LeftButton": 100,
+        "LeftButton": 101,
         "RightButton": 3
     }
 }
