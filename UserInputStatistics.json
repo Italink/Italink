@@ -1,10 +1,5 @@
 {
     "keyUseCount": {
-        "LeftButton": 2,
-        "Num 0": 1,
-        "Num 1": 2,
-        "Num 2": 2,
-        "Num 3": 1
     },
     "keyUsePerHourCount": {
         "2024.12.21 01:00:00": 279,
@@ -12,5 +7,5 @@
         "2024.12.21 03:00:00": 34
     },
     "keyUseTotalCount": 1002,
-    "mouseMoveDistance": 1757058.3251848465
+    "mouseMoveDistance": 1757460.7900150192
 }
