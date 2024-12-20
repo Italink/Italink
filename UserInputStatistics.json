@@ -1,27 +1,16 @@
 {
     "keyUseCount": {
-        "A": 3,
-        "B": 1,
-        "Backspace": 8,
-        "Caps Lock": 1,
-        "Enter": 1,
-        "G": 1,
-        "H": 1,
-        "I": 1,
-        "Left Shift": 1,
-        "LeftButton": 203,
-        "M": 3,
-        "RightButton": 1,
-        "Space": 2,
-        "T": 1,
-        "U": 5,
-        "W": 4
+        "Left Win": 1,
+        "LeftButton": 17,
+        "RightButton": 2,
+        "S": 1,
+        "T": 1
     },
     "keyUsePerHourCount": {
         "2024.12.21 01:00:00": 279,
         "2024.12.21 02:00:00": 689,
-        "2024.12.21 03:00:00": 7
+        "2024.12.21 03:00:00": 10
     },
-    "keyUseTotalCount": 975,
-    "mouseMoveDistance": 1484650.7206105606
+    "keyUseTotalCount": 978,
+    "mouseMoveDistance": 1570063.8017915247
 }
