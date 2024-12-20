@@ -30,4 +30,4 @@
 ![](https://raw.githubusercontent.com/italink/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/italink/github-stats-transparent/output/generated/languages.svg)
 
-![UserInputStatistics](Resources/UserInputStatistics.svg)
+![UserInputStatistics](UserInputStatistics.png)
