@@ -1,15 +1,12 @@
 {
     "keyUseCount": {
-        "A": 1,
         "Ctrl": 1,
-        "D": 1,
-        "LeftButton": 5,
-        "S": 1,
-        "Z": 1
+        "LeftButton": 6,
+        "S": 1
     },
     "keyUsePerHourCount": {
-        "2024.12.21 00:00:00": 5
+        "2024.12.21 00:00:00": 2
     },
-    "keyUseTotalCount": 5,
-    "mouseMoveDistance": 12727.062551786388
+    "keyUseTotalCount": 2,
+    "mouseMoveDistance": 9316.957870149086
 }
