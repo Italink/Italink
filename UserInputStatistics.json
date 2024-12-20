@@ -1,16 +1,16 @@
 {
     "keyUseCount": {
-        "Left Win": 1,
-        "LeftButton": 17,
-        "RightButton": 2,
-        "S": 1,
-        "T": 1
+        "Enter": 1,
+        "F": 1,
+        "Left Ctrl": 1,
+        "LeftButton": 146,
+        "RightButton": 5
     },
     "keyUsePerHourCount": {
         "2024.12.21 01:00:00": 279,
         "2024.12.21 02:00:00": 689,
-        "2024.12.21 03:00:00": 10
+        "2024.12.21 03:00:00": 13
     },
-    "keyUseTotalCount": 978,
-    "mouseMoveDistance": 1570063.8017915247
+    "keyUseTotalCount": 981,
+    "mouseMoveDistance": 1747829.1051353975
 }
