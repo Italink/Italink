@@ -36,7 +36,7 @@
         "Left Ctrl": 10,
         "Left Shift": 18,
         "Left Win": 4,
-        "LeftButton": 52,
+        "LeftButton": 53,
         "M": 2,
         "N": 3,
         "Num *": 1,
@@ -60,6 +60,7 @@
         "Right Alt": 4,
         "Right Ctrl": 5,
         "Right Shift": 4,
+        "RightButton": 1,
         "S": 11,
         "Scroll Lock": 1,
         "Space": 18,
@@ -82,5 +83,5 @@
         "2024.12.21 12:00:00": 1
     },
     "keyUseTotalCount": 1322,
-    "mouseMoveDistance": 1877632.4825658812
+    "mouseMoveDistance": 1882240.7839938835
 }
