@@ -25,7 +25,7 @@
 </h5>
 
 
-**My next focus will be on creating some useful enhanced extension plugins for Unreal Engine 5. **
+**My next focus will be on creating some useful enhanced extension plugins for Unreal Engine 5.**
 
 **If you can see its full name, it means I'm programming it：**
 
