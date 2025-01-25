@@ -25,12 +25,12 @@
 </h5>
 
 
-**My next focus will be on creating some useful enhanced extension plugins for Unreal Engine 5.**
+**My next focus will be on creating some useful extension plugins for Unreal Engine 5.**
 
 **If you can see its full name, it means I'm programming it：**
 
 - **Procedural Content Processor**
-- **Gaussian Splatting For UnrealEngine**
+- [**Gaussian Splatting For UnrealEngine**](https://github.com/Italink/GaussianSplattingForUnrealEngine)
 - **Vxxxxxx Cxxxxxxx**
 - **Rxxxxxxx Sxxxxxxx**
 - **Fxxxx Axxxxxxxx Cxxxxxx**
