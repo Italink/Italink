@@ -29,20 +29,18 @@
 
 **If you can see its full name, it means I'm programming it：**
 
-- **Procedural Content Processor**
-- [**Gaussian Splatting For Unreal Engine**](https://github.com/Italink/GaussianSplattingForUnrealEngine)
-- **Blueprint_C**
+- **Procedural Content Processor**：Provide procedural methods to manage objects,  assets and worlds.
+- [**Gaussian Splatting For Unreal Engine**](https://github.com/Italink/GaussianSplattingForUnrealEngine)：Convert primitives into 3D Gaussians.
+- [**Blueprint_C**](https://github.com/Italink/Blueprint_C)： Generate C++ code proxy of blueprint.
+- **Enhanced Asset**：Separate some properties of binary assets into readable text to enhance version control and multi - person collaboration.
 - **Vxxxxxx Cxxxxxxx**
 - **Rxxxxxxx Sxxxxxxx**
 - **Fxxxx Axxxxxxxx Cxxxxxx**
-- **UJxxx**
 - **Wxxxx Oxxxxxxxx**
 - **Jxx  Hxxxxxx**
 - **Uxxxxx Wxxxxxxxx Exxxxx（Project）**
 - **Utopia（Project）**
 - **Txx Axxxxxxx ox Gxxx Pxxxxxxxxx （Blog）**
-
-
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
