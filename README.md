@@ -32,7 +32,7 @@
 - [**Blueprint_C**](https://github.com/Italink/Blueprint_C)： Generate C++ code proxy of blueprint.
 - **Enhanced Asset**：Separate some properties of binary assets into readable text to enhance version control and multi - person collaboration.
 - **Widget Card**：This makes it possible for the user interface of the Unreal Engine to undergo free perspective transformation and eliminates the influence of post-processing.
-- **Virtual Collision **：A general-purpose and high-performance collision body strategy
+- **Virtual Collision**：A general-purpose and high-performance collision body strategy
 - **Rxxxxxxx Sxxxxxxx**
 - **Fxxxx Axxxxxxxx Cxxxxxx**
 - **Wxxxx Oxxxxxxxx**
